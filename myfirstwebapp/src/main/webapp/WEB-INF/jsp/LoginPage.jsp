@@ -1,7 +1,8 @@
 <html>
     <head>
     <title> This is a login page </title>
+    </head>
     <body>
-    Hello Welcome to login page ${name} !
+        Welcome to the login page!
     </body>
 </html>
